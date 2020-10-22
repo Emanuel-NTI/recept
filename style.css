@@ -21,6 +21,11 @@ body{
 }
 h2{
     color: #dee4e7;
+    text-align: center;
+}
+h3{
+    color: #dee4e7;
+    text-align: left;
 }
 ol{
     color: #dee4e7;
